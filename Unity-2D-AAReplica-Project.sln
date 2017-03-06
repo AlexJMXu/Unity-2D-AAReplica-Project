@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D370B245-0D9B-672A-B05F-69EE4F29F737}") = "Unity-2D-AAReplica-Project", "Assembly-CSharp.csproj", "{16348C40-1A2F-145A-D2AF-643EF8FA34E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16348C40-1A2F-145A-D2AF-643EF8FA34E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16348C40-1A2F-145A-D2AF-643EF8FA34E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16348C40-1A2F-145A-D2AF-643EF8FA34E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16348C40-1A2F-145A-D2AF-643EF8FA34E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
